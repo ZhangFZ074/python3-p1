@@ -4,7 +4,7 @@
 
 * 退出指令
 quit（）     /    CTRL-Z (^Z)  /  exit（）
-PowerShell  命令行终端程序
+PowerShell    命令行终端程序
 Terminal      终端
 
 * 新建目录
@@ -17,9 +17,9 @@ cd   有时也写作chdir（change directory，改变目录），是在Unix、Wi
 如何在已经进入某一个文件时再退出进入其他目录 输入cd E:\pthw(E必须为大写）
 
 * 其它
-path          路径
-Type         类型
-file            文件
+path        路径
+Type        类型
+file        文件
 directory   目录
 dir （directory，目錄）是一個條列檔案及目錄的命令行界面指令
 Volume in drive C is ，Volume Serial Number is 085C-7E02
