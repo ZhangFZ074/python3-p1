@@ -1,3 +1,4 @@
+# 井号不显示、不读取、备注用，这是我的第一个程序。
 print("Hello World!")
 print("Hello Again")
 print("I like typing this.")
