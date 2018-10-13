@@ -1,2 +1,2 @@
-# python编程的开始
+# python编程
 ---
