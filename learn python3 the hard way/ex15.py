@@ -1,6 +1,6 @@
-# 从 sys 导入 argv
+# 导入 sys 模块
 from sys import argv
-# script是脚本名，filename是文件名
+# argv赋值给左边的变量，script是脚本名，filename是文件名
 script, filename = argv
 # open用于打开{filename}的txt文件
 txt = open(filename)
