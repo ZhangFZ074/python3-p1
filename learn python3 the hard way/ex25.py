@@ -10,7 +10,7 @@ def break_words(stuff):
 def sort_words(words):
     # （对单词进行排序）
     """Sorts the words."""
-    # 返回值，调用函数 sorted对参数 words进行排序
+    # 返回值，调用sorted()函数对参数进行排序，并将值返回
     return sorted(words)
 # 定义函数 print first word，参数words
 def print_first_word(words):
