@@ -5,6 +5,6 @@ quit()
 # 在powershell中创建一个目录。
 mkdir lpthw
 # 在powershell中变到一个目录。
-cdlpthw
+cd lpthw
 # 在powershell中列出目录。
 dir
