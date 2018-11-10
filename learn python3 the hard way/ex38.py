@@ -2,7 +2,7 @@ ten_things = "Apples Oranges Crows Telephone Light Sugar"
 # 说明
 print("Wait there are not 10 things in that list.Lrt's fix that.")
 # 切割
-stuff = ten_things.split(' ')
+stuff = ten_things.split(' ')  # 在括号里面的字符串删除
 # 列表
 more_stuff = ["Day", "Night" "Song", "Frisbee", "Corn", "Banana", "Girl", "Boy"]
 # 
