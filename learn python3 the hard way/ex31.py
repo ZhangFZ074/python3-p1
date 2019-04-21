@@ -7,14 +7,14 @@ if door == "1":
     print("There's a giant bear here eating a cheese cake.")
     print("What do you do?")
     print("1. Take the cake.")
-    print("2. Scream at the bear.")
+    print("2. Scream at the besr.")
 
     bear = input(">")
 
     if bear == "1":
         print("The bear eats your face off. Good job!")
     elif bear == "2":
-        print("The bear eats your legs off. Goodjob!")
+        print("The bear eats your legs off. Good job!")
     else:
         print(f"Well, dong {bear} is probably better.")
         print("Bear runs away.")
@@ -25,14 +25,14 @@ elif door == "2":
     print("2. Yellow jacket clothspins.")
     print("3. Understanding revolvers yelling melodies.")
 
-    insanity = input (">")
+    insanity = input(">")
 
     if insanity == "1" or insanity == "2":
         print("Your body survives powered by a mind of jello.")
         print("Good job!")
     else:
-        print("The insanity rots your eyes into a pool of muck.")
+        print("The insanity rots your eyes into a pool pf muck.")
         print("Good job!")
 
 else:
-    print("You stumble around and fall on a knife and die  Good kob!")
+    print("You stumble around and fall no a knife and die. Good job!")  
