@@ -17,4 +17,4 @@ I'll do a list:
 print = (taby_cat)
 print = (persian_cat)
 print = (backslash_cat)
-peint = (fat_cat)
+print = (fat_cat)
