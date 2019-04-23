@@ -3,6 +3,7 @@ Do you go through door #1 or door #2?""")
 
 door = input(">")
 
+# 输入 1 就执行这个程序
 if door == "1":
     print("There's a giant bear here eating a cheese cake.")
     print("What do you do?")
@@ -19,6 +20,7 @@ if door == "1":
         print(f"Well, dong {bear} is probably better.")
         print("Bear runs away.")
 
+# 输入 2 就执行这个程序
 elif door == "2":
     print("You stare into the endless abyss at Cthulhu's retina.")
     print("1. Blueberries.")
