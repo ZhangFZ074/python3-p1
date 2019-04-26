@@ -5,7 +5,7 @@ print("Wait there are not 10 things in that list.Lrt's fix that.")
 stuff = ten_things.split(' ')  # 在括号里面的字符串删除
 # 列表
 more_stuff = ["Day", "Night" "Song", "Frisbee", "Corn", "Banana", "Girl", "Boy"]
-# 
+#  len 长度
 while len(stuff) != 10:
     # pop 移除列表中的一个数字，默认最后一位
     next_one = more_stuff.pop()
@@ -18,8 +18,8 @@ print("There wo go:", stuff)
 
 print("Let's do some things with stuff.")
 
-print(stuff[1])
-print(stuff[-1])
-print(stuff.pop())
+print(stuff[1])   # 打印第二个值
+print(stuff[-1])  # 打印倒数第一个值
+print(stuff.pop())  # 移除最后一个值
 print(''.join(stuff))
 print('#'.join(stuff[3:5]))
